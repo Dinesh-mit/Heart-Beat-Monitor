@@ -6,8 +6,7 @@ In today’s world, there is a continuous need for automatic appliances. With th
 </p>
 
 
-I have uploaded the project file where one can see 
-the steps to be executed to upload the program onto the Arduino through Labview.
+
 # Working
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/81762286/113396757-ad42c880-93b9-11eb-9e2a-2e359ad43f45.gif">
